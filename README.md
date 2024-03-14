@@ -1,1 +1,1 @@
-## /alpha-GAIN: 
+## α-GAIN: 
