@@ -1,0 +1,81 @@
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 is_fi=False is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 is_fi=True is_dh=False
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 is_fi=False is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 hr=0.1 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 hr=0.3 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 hr=0.5 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 hr=0.7 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.1 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.2 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.3 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.4 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.5 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.6 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.7 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.8 hr=0.9 is_fi=True is_dh=True
+python train.py with dataset="Spam" repetition=80 iteration=250 mr=0.9 hr=0.9 is_fi=True is_dh=True
