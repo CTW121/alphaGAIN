@@ -9,3 +9,6 @@ To ensure that D to learn effectively when its loss is low, in turn forces G to 
 - we provide a modified sigmoid function in the H for computing the updated hint rate based on the loss of discriminator.
 
 We tested our model on various datasets and found that 𝛼-GAIN has slightly improvement compared with [GAIN](https://arxiv.org/abs/1806.02920) between missing rate 0.5 and 0.8.
+
+Following is the architecture of [GAIN](https://arxiv.org/abs/1806.02920).
+![GAIN architecture](https://github.com/CTW121/alphaGAIN/blob/master/images/GAIN.jpg)
