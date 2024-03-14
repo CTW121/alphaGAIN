@@ -1,6 +1,6 @@
 ## α-GAIN: Missing data imputation using GAIN with modification on hint generator
 
-We developed 𝛼-Generative Adversarial Imputation Networks (𝛼-GAIN) to impute the missing values in real-life dataset. We present an improved version of the Generative Adversarial Imputation Net ([GAIN](https://arxiv.org/abs/1806.02920))
+We developed 𝛼-Generative Adversarial Imputation Networks (𝛼-GAIN) to impute the missing values in real-life dataset. 𝛼-GAIN is an improved version of the Generative Adversarial Imputation Net ([GAIN](https://arxiv.org/abs/1806.02920))
 
 The generator (G) imputes the missing components according to observed components. The discriminator (D) then take the imputed dataset and determine which components were observed and which were imputed. The hint generator (H) generates the hint matrix as additional information to G.
 
